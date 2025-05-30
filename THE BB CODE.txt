@@ -1,0 +1,14 @@
+WIP
+[I][B]Team building [/B][/I][B][I][B][I]Compendium[/I][/B][/I][/B]
+Welcome to the teambuilding compendium! If you're looking for a Pokemon to fill a role on your team or some counterplay to a metagame defining threat this is a one stop shop! Every sprite is clickable and links to a Pokepaste containing sets that are [U]not[/U] plug and play. Every set has been curated so any Pokemon unable to fulfill its intended role have been removed. The compendium is intended to be a quick place to grab a set to fill a role on your team, if you're interested in more informatioa specific set, go ask about them in the pure hackmons room or ask me or idk. If there are any mistakes or suggestions about sets that should be added please don't hesistate to message me. [URL='https://www.smogon.com/forums/threads/national-dex-ubers-teambuilding-compendium.3752305/'][1][/URL]
+
+[B][U]:Audino-mega: Support & utility :audino-mega:[/U][/B][niche]
+There are hardly pure supportive mons in HO: [URL='https://pokepast.es/937dc2a6ee715b5b']:gyarados-mega:[/URL](wonder guard) :gyarados-mega:(magic guard)/*insert some toxic orb trick mgyara here*/ :Yveltal:(magic guard) /*almost same as gyara*/ :mewtwo-mega-y:(innards out) [[URL='https://pokepast.es/283af5c4b39bff63']:deoxys-speed:[/URL](wonder guard) [URL='https://pokepast.es/283af5c4b39bff63']:deoxys-speed:[/URL](Mold Breaker) [URL='https://pokepast.es/3bac5786c46e1b75']:mewtwo-mega-y:[/URL](wonder guard)]
+Offense: [URL='https://pokepast.es/8fb24874ab9a434e']:Audino-Mega:[/URL](wonder guard) [URL='https://pokepast.es/bd1e2f25bbd3711d']:meloetta:[/URL](wonder guard) [URL='https://pokepast.es/937dc2a6ee715b5b']:gyarados-mega:[/URL](wonder guard) :[URL='https://pokepast.es/bd1e2f25bbd3711d']:slowbro-mega:[/URL](wonder guard) [[URL='https://pokepast.es/c854431d92787808']:muk-alola:[/URL](wonder guard)]
+Balance:
+/*I hate this part*/
+
+[B][U]:Slaking: Late Game Sweepers :Slaking:[/U][/B]
+HO: :Kartana:(Wonder guard) :Kartana:(Huge Power)
+
+/*Im uploading it on github here so that anyone can help with this project. I need help with the fuking support and almost all the balance and stall sets.*/
