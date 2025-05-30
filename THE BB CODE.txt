@@ -11,4 +11,4 @@ Balance:
 [B][U]:Slaking: Late Game Sweepers :Slaking:[/U][/B]
 HO: :Kartana:(Wonder guard) :Kartana:(Huge Power)
 
-/*Im uploading it on github here so that anyone can help with this project. I need help with the fuking support and almost all the balance and stall sets.*/
+/*Im uploading it on github [URL='https://github.com/AnsonIsTheBest/USM-Pure-Hackmons-set-compodium/tree/main']here [/URL]so that anyone can help with this project. I need help with the fuking support and almost all the balance and stall sets.*/
