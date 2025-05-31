@@ -1,5 +1,4 @@
-[https://noelletgs.github.io/osu-bbcode-editor/
-](https://www.systutorials.com/tools/bbeditor/)
+[https://www.sceditor.com/](https://www.sceditor.com/)
 
 this is a bbcode editor I found useful and kind of better than smogon one but hard to say.
 
