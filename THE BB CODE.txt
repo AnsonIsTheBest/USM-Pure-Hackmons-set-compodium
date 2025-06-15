@@ -7,8 +7,10 @@ Offense: [url=’https://pokepast.es/8fb24874ab9a434e’]:Audino-Mega:[/url](won
 Balance:
 /*I hate this part*/
 [b]:Slaking: Late Game Sweepers :Slaking:[/b][niche]
-HO: :Kartana:(Wonder guard) :Kartana:(Huge Power) :Mewtwo-mega-y: (No Guard)/*mostly fissure photon smash sing one*/ :Deoxys-Attack:(Huge Power) :Slaking:(Harvest) :Groudon-Primal:(Huge Power) :Mewtwo-mega-x:(Huge Power) [:Deoxys-attack:(Magic Guard) :Groudon-Primal:(Mold Breaker)]
+HO: :Kartana:(Wonder guard) :Kartana:(Huge Power) :Mewtwo-mega-y: (No Guard)/*mostly shell smash one*/ :Deoxys-Attack:(Huge Power) :Slaking:(Harvest) :Groudon-Primal:(Huge Power) :Mewtwo-mega-x:(Huge Power) [:Deoxys-attack:(Magic Guard) :Groudon-Primal:(Mold Breaker) :Mewtwo-mega-x: (Magic Guard) :Marshadow: (Mold Breaker) :Arceus: (Wonder Guard) :Gengar-mega: (Dazzling) :Mewtwo-mega-y:(Psychic Surge)]
 
-[b]:mewtwo-mega-x: NUKES(wall breakers) :mewtwo-mega-x:[/b][niche]
-HO: :mewtwo-mega-x:(Huge Power) :Deoxys-Attack:(Huge Power) :Kartana:(Huge Power) :Rayquaza-mega: (Shadow Tag / Arena trap)
+[b]:mewtwo-mega-x: NUKES :mewtwo-mega-x:[/b][niche]
+HO: :mewtwo-mega-x:(Huge Power) :Deoxys-Attack:(Huge Power) :Kartana:(Huge Power)
+Offense: :mewtwo-mega-x:(Huge Power) :Kartana: (Huge Power) :Groudon-Primal:(Choice Band)
+/*What I call Nukes is those who can shoot an hard-to-wall shot when they got a chance. A good example is mold band don v-create. But because of the existance of the ability wonder guard there is hardly really sth that can go for a unwallable shot*/
 /*Im uploading it on github here so that anyone can help with this project. I need help with the fuking support and almost all the balance and stall sets.*/
